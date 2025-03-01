@@ -72,12 +72,6 @@ This project involves **data cleaning, processing, visualization, and dashboard 
 
 ---
 
-## 📊 Dashboard Screenshot
-
-![New Dashboard Screenshot](https://github.com/yuvaxo/Vrinda_Store_Sales_Analysis/blob/main/screenshots/dashboard.png)
-
----
-
 ## 🛠 Tools & Technologies Used
 
 | Tool | Purpose |
