@@ -88,3 +88,7 @@ This project involves **data cleaning, processing, visualization, and dashboard 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yuvaxo/Ecommerce-Sales-Analysis.git
+
+**Developed 
+by:** [K.YUVA SHANKAR](https://www.linkedin.com/in/yuva-shankar-4ba786228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
