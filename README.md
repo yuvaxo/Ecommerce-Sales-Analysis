@@ -1,4 +1,4 @@
-# 📊 Vrinda Store Sales Analysis
+# 📊 Store Sales Analysis
 
 ## 📌 Project Overview
 
