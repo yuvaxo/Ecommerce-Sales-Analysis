@@ -93,4 +93,4 @@ This project involves **data cleaning, processing, visualization, and dashboard 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yuvaxo/Vrinda_Store_Sales_Analysis.git
+   git clone https://github.com/yuvaxo/Ecommerce-Sales-Analysis.git
